@@ -1,0 +1,3 @@
+the car.html stores the img and name of the car brand
+whereas Car.java stores the a programm that runs a constructor in which 
+Car name and Price are present
