@@ -1,0 +1,15 @@
+h1{
+    font-size: 34px;
+    font-weight: 600;
+
+}
+.box{
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+}
+.container{
+    border-radius: 50%;
+    background-image: none;
+    background-color: #230a0a;
+}
